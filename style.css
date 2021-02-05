@@ -1,0 +1,72 @@
+.box {
+  display: flex;
+  align-items: center;
+}
+
+body {
+  text-align: center;
+}
+.yt-box {
+  border-left: 5px solid red;
+  padding-left: 0.5em;
+  background-color: pink;
+  border-right: 5px solid red;
+  margin: none;
+}
+
+.youtube {
+  padding-right: 1em;
+}
+
+.contact {
+  list-style: none;
+}
+
+.stay-updated {
+  width: 15em;
+  border: 1px solid black;
+  padding: 2em;
+  background-color: lightgray;
+  text-align: center;
+  margin: auto;
+}
+
+.tools {
+  padding-left: 4em;
+  padding-right: 4em;
+  background-color: lightblue;
+}
+.submit {
+  text-align: center;
+  padding-top: 1em;
+}
+
+.first-title {
+  color: darkblue;
+}
+.sub-title {
+  color: rgb(18, 114, 18);
+}
+
+button {
+  background-color: grey;
+}
+
+.text-section {
+  font-size: 30px;
+  color:firebrick;
+  font-style:italic;
+}
+.getintouch {
+  border: 1px solid black;
+  padding: 2em;
+  width: 23em;
+  padding-top: 1em;
+  border-radius: 5%;
+  text-align: center;
+  background-color: rgb(185, 233, 185);
+  margin: auto;
+}
+.my-table {
+  margin: auto;
+}
